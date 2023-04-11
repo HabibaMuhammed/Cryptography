@@ -1,0 +1,79 @@
+﻿  algorithm_menue.cpp
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(88,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(117,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(159,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(187,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(228,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(256,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(290,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(330,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(356,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(390,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(416,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(468,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(540,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(621,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(664,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(714,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(790,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(840,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(915,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(965,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(995,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1033,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1063,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1097,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1156,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1198,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1228,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1263,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1293,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1326,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1351,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1383,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1428,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1471,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1456,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1498,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1541,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1526,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1564,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1589,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1621,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1665,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1725,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1867,40): warning C4101: 'fail': unreferenced local variable
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1911,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1945,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1970,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1973,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1975,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(1976,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2003,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2053,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2079,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2082,26): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2084,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2085,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2125,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2151,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2215,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2239,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2245,26): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2260,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2299,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2324,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2330,26): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2343,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2415,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2439,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2445,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2459,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2498,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2523,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2529,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2542,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\T2_AllMilestones\T2_AllMilestones\algorithm_menue.cpp(2620,40): warning C4101: 'fail': unreferenced local variable
+  T2_AllMilestones.vcxproj -> C:\Users\User\source\repos\T2_AllMilestones\Debug\T2_AllMilestones.exe
